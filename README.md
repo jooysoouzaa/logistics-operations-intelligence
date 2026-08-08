@@ -118,7 +118,16 @@ O Unity Catalog foi utilizado para rastrear automaticamente as dependências ent
 
 <img width="1401" height="805" alt="Unity Catalog Lineage" src="https://github.com/user-attachments/assets/7e4c7f4a-b37a-423e-a2d5-a309b4cc75f6" />
 
+**Estrutura do catálogo no Databricks.**  
+Organização das camadas `bronze`, `silver`, `gold` e da camada de `governance`, com destaque para as tabelas analíticas e artefatos de governança criados no projeto.
 
+<img width="470" height="380" alt="Estrutura do Catalog" src="https://github.com/user-attachments/assets/5f6a487a-96a1-4331-b7fd-894f05e7148f" />
+
+
+**Amostra da tabela analítica `gold_trip_operations`.**  
+Visão consolidada por viagem, reunindo métricas operacionais como distância percorrida, duração, consumo de combustível, eficiência média, tempo ocioso e status da operação.
+
+<img width="1264" height="693" alt="gold_trip_operations" src="https://github.com/user-attachments/assets/c3b324b5-2cbc-4186-bf38-040e9e004659" />
 
 
 ## Estrutura do repositório
