@@ -37,7 +37,6 @@ Governança transversal:
 
 - Databricks
 - PySpark
-- Spark SQL
 - Delta Lake
 - Unity Catalog
 - Git
