@@ -112,6 +112,13 @@ Durante as validações foram identificados:
 - nenhum custo de combustível inconsistente;
 - preservação da granularidade das tabelas Gold.
 
+## Linhagem de Dados com Unity Catalog
+
+O Unity Catalog foi utilizado para rastrear automaticamente as dependências entre as tabelas Silver e a tabela analítica `gold_trip_operations`.
+
+![Lineage da gold_trip_operations](<img width="1401" height="805" alt="Unity Catalog Lineage" src="https://github.com/user-attachments/assets/61bf3d78-0a22-436d-bb36-0749bd746fa8" />
+)
+
 ## Estrutura do repositório
 
 ```
