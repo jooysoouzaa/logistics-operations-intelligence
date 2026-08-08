@@ -116,7 +116,7 @@ Durante as validações foram identificados:
 
 O Unity Catalog foi utilizado para rastrear automaticamente as dependências entre as tabelas Silver e a tabela analítica `gold_trip_operations`.
 
-![Lineage da gold_trip_operations] <img width="1401" height="805" alt="Unity Catalog Lineage" src="https://github.com/user-attachments/assets/7e4c7f4a-b37a-423e-a2d5-a309b4cc75f6" />
+<img width="1401" height="805" alt="Unity Catalog Lineage" src="https://github.com/user-attachments/assets/7e4c7f4a-b37a-423e-a2d5-a309b4cc75f6" />
 
 
 
